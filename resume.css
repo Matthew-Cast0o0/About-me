@@ -1,0 +1,26 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px; 
+}
+
+body{
+    background-color:rgb(252, 232, 194);
+    background:linear-gradient(to right, rgb(50, 76, 105), rgba(252, 210, 95, 0.815)
+    )
+}
+
+.container{
+    background-color: white;
+    background:linear-gradient(to right, rgb(164, 250, 207), rgb(138, 205, 250));
+    padding:10px;
+    border-radius: 10px;
+}
+
+.links{
+    justify-content: space-between;
+    display:flex;
+    background-color: white;
+    background:linear-gradient(to right,  rgb(164, 245, 126), rgb(83, 135, 248));
+    padding:10px;
+    border-radius: 10px;
+}
